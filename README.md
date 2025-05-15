@@ -17,4 +17,7 @@ Langkah-langkah:
 6. Ketikkan di termunal `git branch dev`
 7. `git branch`
 8. `checkout dev` --> switch ke branch `dev`
+9. `git add <file>`
+10. `git commit -m "pesan isi di sini"`
+11. `git push origin <branch>`
 
